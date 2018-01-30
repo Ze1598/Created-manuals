@@ -5,3 +5,5 @@ I've started with a Python 3 (incomplete) and an Unix Command Line Manuals, but 
 Update log:
 
 (jan. 28th 2018) Deleted the exisiting Python pdf and swapped it for the finished version, called Python3x_Manual.pdf. This means I'm done with the Manual for Python and no updates will be done to that file. If there's other Python topics I create a manual for, I will create and upload those separately.
+
+(jan. 29th 2018) Added a Manual about Git
